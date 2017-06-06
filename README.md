@@ -26,8 +26,7 @@ This page is part of a `git` repository which is a tool for managing code.  Gith
 
 ### Codepen.io
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="BZyMzL" data-default-tab="html,result" data-user="cloudyparts" data-embed-version="2" data-pen-title="Baby Groot" class="codepen">See the Pen <a href="https://codepen.io/cloudyparts/pen/BZyMzL/">Baby Groot</a> by patrick devlin (<a href="https://codepen.io/cloudyparts">@cloudyparts</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+See the Pen [Baby Groot](https://codepen.io/cloudyparts/pen/BZyMzL/) by patrick devlin ([@cloudyparts](https://codepen.io/cloudyparts))
 
 
 
