@@ -46,7 +46,7 @@ See the Pen [Baby Groot](https://codepen.io/cloudyparts/pen/BZyMzL/) by patrick 
 
 - Code Playgrounds
 
-  - [codepen.io](codepen.io)
+  - [codepen.io](https://codepen.io)
 
   - [sololearn.com](https://code.sololearn.com/#html)
 
