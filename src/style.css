@@ -1,0 +1,47 @@
+#grid {
+  margin: 20px 20px;
+  position: absolute;
+  width: 600px;
+}
+
+.row {
+  margin: 0px;
+  width: 560px;
+  height: 12px;
+  float: left;
+  border: 1px solid white;
+}
+
+.col {
+  width: 12px;
+  height: 12px;
+  display: block;
+  float: left;
+  border: 1px solid white;
+  background-color: white;
+}
+
+.lightbrown {
+  background-color: #c48100;
+}
+
+.darkbrown {
+  background-color: #6e4202;
+}
+
+.darkgreen {
+  background-color: #005c18;
+}
+
+.darkgrey {
+  background-color: #383838;
+}
+
+.lightgrey {
+  background-color: #d3d3d3;
+}
+
+.white {
+  background-color: white;
+}
+
